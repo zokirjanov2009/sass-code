@@ -1,0 +1,127 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: auto;
+  height: auto;
+  border: 1px solid rgb(255, 255, 255);
+}
+.container .img {
+  width: full;
+  height: 755px;
+  position: absolute;
+}
+.container .sariq {
+  width: 550px;
+  height: 350px;
+  background-color: rgb(255, 202, 1);
+  position: absolute;
+  bottom: 200px;
+  left: 180px;
+}
+.container .oq {
+  width: 590px;
+  height: 400px;
+  background-color: white;
+  position: absolute;
+  left: 230px;
+  top: 100px;
+}
+.container .oq .text {
+  color: black;
+  font-weight: 800;
+  font-size: 50px;
+  position: absolute;
+  top: 50px;
+  left: 30px;
+}
+.container .oq .text1 {
+  position: absolute;
+  font-weight: 100;
+  font-size: 23px;
+  color: rgb(132, 129, 129);
+  top: 130px;
+  left: 30px;
+  line-height: 35px;
+}
+.container .oq .text2 {
+  position: absolute;
+  font-weight: 100;
+  font-size: 20px;
+  color: rgb(132, 129, 129);
+  top: 210px;
+  left: 30px;
+  line-height: 35px;
+}
+.container .oq .text4 {
+  width: 200px;
+  height: 65px;
+  border: 2px solid black;
+  position: absolute;
+  left: 30px;
+  top: 270px;
+}
+.container .oq .text5 {
+  font-size: 18px;
+  font-weight: 10;
+  position: absolute;
+  top: 20px;
+  left: 50px;
+}
+.container .oq .text4:hover {
+  background-color: black;
+  color: white;
+}
+.container .yellow {
+  position: absolute;
+  bottom: -1140px;
+  left: -448px;
+}
+.container .yellow2 {
+  position: absolute;
+  bottom: -1440px;
+  left: -448px;
+}
+.container .text6 {
+  color: black;
+  position: absolute;
+  bottom: -170px;
+  font-size: 50px;
+  font-weight: 900;
+  left: 500px;
+}
+.container .text7 {
+  color: black;
+  position: absolute;
+  bottom: -260px;
+  font-size: 30px;
+  font-weight: 100;
+  left: 400px;
+  text-align: center;
+  line-height: 40px;
+}
+.container .div {
+  width: 270px;
+  height: 60px;
+  position: absolute;
+  bottom: -370px;
+  left: 620px;
+  background-color: black;
+}
+.container .div .text8 {
+  position: absolute;
+  font-size: 18px;
+  font-weight: 100;
+  color: white;
+  bottom: 19px;
+  left: 30px;
+}
+.container .div:hover {
+  background-color: white;
+}
+.container .div:hover .text8 {
+  color: black;
+}/*# sourceMappingURL=style.css.map */
